@@ -1,0 +1,25 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.local
+dist/
+build/
+*.log
+package-lock.json
+
+# TypeScript
+*.tsbuildinfo
+.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# JavaScript
+*.js.map
+*.min.js
+coverage/
+.nyc_output/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+out/
