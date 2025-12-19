@@ -1,26 +1,8 @@
+# Ignore
 node_modules/
-npm-debug.log
-yarn-error.log
+/db
+/files
+/secrets
 .env
-.env.local
-dist/
-build/
-*.log
-package-lock.json
-lms.sqlite
-
-# TypeScript
-*.tsbuildinfo
-.tsbuildinfo
-tsconfig.tsbuildinfo
-
-# JavaScript
-*.js.map
-*.min.js
-coverage/
-.nyc_output/
-.cache/
-.parcel-cache/
-.next/
-.nuxt/
-out/
+.DS_Store
+compose.override.yaml
